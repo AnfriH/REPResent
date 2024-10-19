@@ -1,0 +1,2 @@
+# pyvips is used to load in images and convert them into texel art
+pyvips == 2.2.3
