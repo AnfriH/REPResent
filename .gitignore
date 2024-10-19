@@ -1,0 +1,6 @@
+.venv
+.idea
+__pycache__
+
+# as the images in the presentation have been pre-rendered, it's wasteful to include the source files
+images/*
